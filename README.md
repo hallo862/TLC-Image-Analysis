@@ -1,6 +1,8 @@
 # TLC Image Analysis and Automation Tool
 A MATLAB-based tool for analyzing thin-layer chromatography (TLC) images, measuring chromatographic spots, calculating retention factors (Rf), and exporting experimental data.
 
+**Status:** In Progress
+
 ## Overview
 Thin-layer chromatography is widely used in organic chemistry to monitor reactions and evaluate compound separation. This project explores how image processing and automation can make TLC analysis more quantitative, consistent, and efficient.
 The application provides an interactive interface for analyzing TLC plate images and recording measurements.
