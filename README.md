@@ -31,4 +31,4 @@ The application provides an interactive interface for analyzing TLC plate images
 1. Download or clone this repository.
 2. Open MATLAB.
 3. Navigate to the project directory.
-4. Run the application by entering: matlab TLCVisionLab
+4. Run the application by entering: matlab TLCVisionLab and pressing run
